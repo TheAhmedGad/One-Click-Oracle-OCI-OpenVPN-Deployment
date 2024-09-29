@@ -55,7 +55,7 @@ fi
 # STEP: Create VNet & Compute Instanece 
 # https://eclipsys.ca/launch-an-oci-instance-with-oci-cli-in-10-minutes/
 # instance_name="vpn"
-shape="VM.Standard.A1.Flex"
+shape="VM.Standard.E5.Flex"
 # cpu_count="1"
 # memory_in_gb="6"  
 
