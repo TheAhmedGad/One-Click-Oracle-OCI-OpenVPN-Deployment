@@ -15,9 +15,9 @@ Note that key `id_rsa` is saved to `pwd` and can be copied offline to SSH into e
 <span style='color:indianred; font-weight:bold'>Use with caution! Piping scripts to /bin/bash can be dangerous. Please validate all scripts before running.</span>
 
 ```bash
-# curl -s https://raw.githubusercontent.com/alecmaly/One-Click-Oracle-OCI-OpenVPN-Deployment/main/new_oci_openvpn_server.sh | /bin/bash -s -- <instance_name> <cpu_count> <memory_in_gb>
+# curl -s https://raw.githubusercontent.com/TheAhmedGad/One-Click-Oracle-OCI-OpenVPN-Deployment/main/new_oci_openvpn_server.sh | /bin/bash -s -- <instance_name> <cpu_count> <memory_in_gb>
 
-curl -s https://raw.githubusercontent.com/alecmaly/One-Click-Oracle-OCI-OpenVPN-Deployment/main/new_oci_openvpn_server.sh | /bin/bash -s -- openvpn-sever 1 6
+curl -s https://raw.githubusercontent.com/TheAhmedGad/One-Click-Oracle-OCI-OpenVPN-Deployment/main/new_oci_openvpn_server.sh | /bin/bash -s -- openvpn-sever 1 6
 ```
 
 # Notes
