@@ -32,7 +32,7 @@ echo -e "\e[32mExit script with: Ctrl+C\e[0m"
 
 # download configure-server.sh
 echo "[+] Downloading configure-server.sh, will be executed on VPN once it is RUNNING..."
-wget -q "https://raw.githubusercontent.com/alecmaly/One-Click-Oracle-OCI-OpenVPN-Deployment/main/configure-server.sh" -O configure-server.sh
+wget -q "https://raw.githubusercontent.com/TheAhmedGad/One-Click-Oracle-OCI-OpenVPN-Deployment/main/configure-server.sh" -O configure-server.sh
 
 
 # Resources:
